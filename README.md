@@ -1,4 +1,4 @@
-Day1
+Day-1
 OOP (Object Oriented Programming)
 
 key features:-
