@@ -1,0 +1,10 @@
+Inheritance:-
+Need for Java Inheritance:-
+1. Code reusability: The basic need of inheritance is to reuse the features. If you have defined the functionality once, by using inheritance, you can easily use it in other classes and packages.
+2. Extensibility: The inheritance helps to extend the functionalities of a class. If you have a base class with some functionalities, you can extend them by using inheritance in the derived class.
+3. Implantation of method overriding: Inheritance is required to achieve one of the concepts of Polymorphism, which is method overriding.
+4. Achieve Abstraction: Another concept of OPPs that is Abstraction also needs Inheritance.
+
+The Super Keyword:-
+1. It is used to differentiate the members of the superclass from the members of the subclass, if they have the same name.
+2. It is used to invoke the superclass constructor from a subclass.
